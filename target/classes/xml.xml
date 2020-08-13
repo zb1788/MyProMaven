@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books>
+    <book>
+        <author>Thomas</author>
+        <title>Java从入门到放弃</title>
+        <publisher>UCCU</publisher>
+    </book>
+    <book>
+        <author>小白</author>
+        <title>MySQL从删库到跑路</title>
+        <publisher>Go Die</publisher>
+    </book>
+    <book>
+        <author>PHPer</author>
+        <title>Best PHP</title>
+        <publisher>PHPchurch</publisher>
+    </book>
+</books>
